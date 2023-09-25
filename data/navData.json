@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "name": "memory", "title": "Memory" },
+    { "name": "gpt", "title": "ChatGPT" }
+  ]
+}
